@@ -20,7 +20,7 @@ La investigación es mi mayor fortaleza y eso mismo permite que **aprenda rápid
 - ⚡ Fun fact: I'm psycologist, art-therapist and UX designer...it's funny, or not?
 - 🐶🐶🐶 I've 3 dogs 💜
 
-**Why Should You Reach Out to Me?**  
+**Why should you reach out to me?**  
 As I mentioned, I have a unique academic and professional background: I'm an organizational psychologist, hold a diploma in Quantitative Research Methods in Social Sciences, a Master's in Art Therapy, a UX/UI diploma, and recently, I became a Front-End Developer.  
 Unusual? Not at all! Each experience fuels the diverse worlds within me and allows me to connect with the unique world of every user.  
 Research is my greatest strength, enabling me to **quickly learn from every process**, context, and goal in a project.
