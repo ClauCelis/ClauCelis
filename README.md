@@ -1,3 +1,5 @@
+![banner](banner.png)
+
 - 👋 Hola, soy @ClauCelis
 -  🇨🇱 Soy de Chile
 - 👀 Estoy interesada en aprender acerca de front-end y UX, por ahora.
