@@ -1,4 +1,4 @@
-![banner](banner.png)
+![banner](banner_gears.png)
 
 - 👋 Hola, soy @ClauCelis
 -  🇨🇱 Soy de Chile
