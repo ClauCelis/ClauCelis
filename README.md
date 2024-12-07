@@ -22,8 +22,8 @@ La investigación es mi mayor fortaleza y eso mismo permite que **aprenda rápid
 ## Skills
 <details>
 <summary>UX designer</summary>
-  ![FIGMA](https://img.shields.io/badge/figma-9C55F7?style=for-the-badge&logo=figma&logoColor=white)
-  ![MIRO](https://img.shields.io/badge/miro-FFDD33?style=for-the-badge&logo=miro&logoColor=white)
-  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-</details>
+ ![FIGMA](https://img.shields.io/badge/figma-9C55F7?style=for-the-badge&logo=figma&logoColor=white)
+ ![MIRO](https://img.shields.io/badge/miro-FFDD33?style=for-the-badge&logo=miro&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
+</details>
