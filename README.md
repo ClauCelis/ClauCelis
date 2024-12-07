@@ -1,4 +1,4 @@
-![banner](banner_gears.png)
+![banner](banner-gears.png)
 
 - 👋 Hola, soy @ClauCelis y tiendo puentes entre personas y tecnología ☺️
 -  👀 Estoy interesada en aprender acerca de front-end y UX, por ahora.
