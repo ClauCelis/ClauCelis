@@ -12,6 +12,7 @@ Como dije, tengo una trayectoria laboral y académica única: psicóloga laboral
 ¿Extraño? ¡No! Cada experiencia alimenta los mundos diversos que viven dentro de mí y me permiten hablar al mundo que es cada usuario.
 La investigación es mi mayor fortaleza y eso mismo permite que **aprenda rápidamente de cada proceso**, contexto y objetivo en un proyecto.
 
+![html](html.png)  ![css](css.png)  ![js](js.png)
 
 
 ----- English ----- 
