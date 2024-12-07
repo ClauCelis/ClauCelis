@@ -5,7 +5,12 @@
 - 🌱 Actualmente estoy aprendiendo de Vue, JS, otros temas básicos
 - Soy psicóloga, arteterapeuta y diseñadora UX... re loco, no? Actualmente, estoy abierta a ofertas laborales y a desarrollar los proyectos de UX y/o Front-end que tengas en mente.
 - 🐶🐶🐶 Tengo 3 perrunos 💜
-- De 🇨🇱 para el 🌎
+- De 🇨🇱 para el 🌎  
+
+
+ **¡Contáctame en LinkedIn!**  
+[![LinkedIn](linkedin-color.svg)](https://www.linkedin.com/in/pscelis/)  
+
 
 **¿Por qué deberías contactarme?**
 Conjugo saberes y disciplinas que son el mejor complemento y aseguran buenos resultados en la interacción/comunicación digital:
@@ -19,8 +24,6 @@ Conjugo saberes y disciplinas que son el mejor complemento y aseguran buenos res
 ¿Extraño? ¡No! Cada experiencia alimenta los mundos diversos que viven dentro de mí y me permiten hablar al mundo que es cada usuario.
 La investigación es mi mayor fortaleza y eso mismo permite que **aprenda rápidamente de cada proceso**, contexto y objetivo en un proyecto.
 
-¡Contáctame en LinkedIn!  
-[![LinkedIn](linkedin-color.svg)](https://www.linkedin.com/in/pscelis/)
 
 
 ## Skills
