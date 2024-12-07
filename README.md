@@ -1,11 +1,11 @@
 ![banner](banner_gears.png)
 
-- 👋 Hola, soy @ClauCelis
--  🇨🇱 Soy de Chile
-- 👀 Estoy interesada en aprender acerca de front-end y UX, por ahora.
+- 👋 Hola, soy @ClauCelis y tiendo puentes entre personas y tecnología ☺️
+-  👀 Estoy interesada en aprender acerca de front-end y UX, por ahora.
 - 🌱 Actualmente estoy aprendiendo de Vue, JS, otros temas básicos
 - ⚡ Cosas graciosas: Soy psicóloga, arteterapeuta y diseñadora UX... re loco, no?
 - 🐶🐶🐶 Tengo 3 perrunos 💜
+- De 🇨🇱 para el 🌎
 
 **¿Por qué deberías contactarme?**
 Como dije, tengo una trayectoria laboral y académica única: psicóloga laboral PUC, Diplomada de Metodologías de investigación cuantitativa en Cs. Sociales en la Universidad de Chile, Magister en arteterapia, Diplomada UX/UI USACH y recientemente, Front-end developer de Talento Digital.
